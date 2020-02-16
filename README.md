@@ -1,2 +1,2 @@
 # Collapse
-![alt text](Screenshot.jpg)
+![](Screencast.gif)
